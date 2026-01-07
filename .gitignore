@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+venv/
+.env
+.DS_Store
+
+# Database
+*.db
+questions.db
+test.db
+
+# Output
+*.pdf
+temp_test.pdf
+
+# Testing
+.pytest_cache/
